@@ -6,4 +6,6 @@ O Miguel fez uma alteração!
 
 Alterei sem saber que o Diego estava usando.
 
-Alterado localmetne (Diego)
+Alterado localmetne (Diego) - Local
+
+Alterado on Hub (Miguel) - Hub
